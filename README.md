@@ -9,7 +9,6 @@ A Car Rental Management System that allows users to book cars, manage payments, 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-  - [Editing the Connection String](#editing-the-connection-string)
 - [Database Relationship Diagram](#database-relationship-diagram)
 - [Database Schema](#database-schema)
   - [Admin Table](#admin-table)
@@ -19,8 +18,9 @@ A Car Rental Management System that allows users to book cars, manage payments, 
   - [Report Table](#report-table)
 - [Windows Forms Designs](#windows-forms-designs)
   - [Admin's Features](#admins-features)
-  - [Customer's Features](#customers-feature)
+  - [Customer's Features](#customers-features)
 - [Contact](#contact)
+
 
 ## About the Project
 The Car Rental Management System is a comprehensive application designed to streamline the processes involved in car rentals for both customers and administrators. This system enables users to efficiently manage car bookings, customer information, and payment transactions while providing insights into business performance.
@@ -104,24 +104,24 @@ To connect the application to your SQL Server database, you will need to update 
 
 ## Database schema
 
-1. **Admin Table**
+1. ### **Admin Table**
    
     ![WhatsApp Image 2024-09-22 at 12 19 06_77a8c5f0](https://github.com/user-attachments/assets/49ff521a-c758-4791-8708-4145de345a3c)
    
-3. **Customer Table**
+3. ### **Customer Table**
    
     ![image](https://github.com/user-attachments/assets/87421e0a-de18-47f0-93d3-7dbb7e1a38ad)
 
    
-5. **Car Table**
+5. ### **Car Table**
    
     ![image](https://github.com/user-attachments/assets/80d63849-e0fd-43a7-8963-ebfb2e7b7739)
    
-7. **Booking Table**
+7. ### **Booking Table**
    
    ![WhatsApp Image 2024-09-22 at 12 19 33_fcde11c3](https://github.com/user-attachments/assets/3043e4fe-236e-4ca3-a155-4896fb5f3bdc)
    
-9. **Report Table**
+9. ### **Report Table**
     
    ![image](https://github.com/user-attachments/assets/20a582f3-c351-47fa-b54d-a75d3c978e2f)
 
@@ -130,11 +130,11 @@ To connect the application to your SQL Server database, you will need to update 
 
 ### Admin's Features 
 
-- **Login Interface**: User have to select the role first (Admin or Customer). Then  Fillup the required Boxes and click the Login button to Login to in the application
+-  **Login Interface**: ### User have to select the role first (Admin or Customer). Then  Fillup the required Boxes and click the Login button to Login to in the application
 
   ![image](https://github.com/user-attachments/assets/4d5cd211-498a-4faa-9508-aa5d9be685ed)
 
-- **Admin Home**:
+-  **Admin Home**:
 
   ![image](https://github.com/user-attachments/assets/90f45a9c-ba88-4141-89d9-0073dbebe2b0)
 
