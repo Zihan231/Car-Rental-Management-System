@@ -202,7 +202,8 @@ Provide information on how to reach the author or maintainers of the project:
 
 - **Name**: Zihaul Islam Zihan
 - **Email**: Zihanislam231@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/Zihan231)
+- **GitHub**: - [@Zihan231](https://github.com/Zihan231)
+
   
 
 
