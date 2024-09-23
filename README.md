@@ -1,6 +1,27 @@
 # CarBazar
 A Car Rental Management System that allows users to book cars, manage payments, and track rental history. Features include car ratings, CRUD operations, and real-time availability of vehicles.
 
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Editing the Connection String](#editing-the-connection-string)
+- [Database Relationship Diagram](#database-relationship-diagram)
+- [Database Schema](#database-schema)
+  - [Admin Table](#admin-table)
+  - [Customer Table](#customer-table)
+  - [Car Table](#car-table)
+  - [Booking Table](#booking-table)
+  - [Report Table](#report-table)
+- [Windows Forms Designs](#windows-forms-designs)
+  - [Admin's Features](#admins-features)
+  - [Customer's Features](#customers-feature)
+- [Contact](#contact)
+
 ## About the Project
 The Car Rental Management System is a comprehensive application designed to streamline the processes involved in car rentals for both customers and administrators. This system enables users to efficiently manage car bookings, customer information, and payment transactions while providing insights into business performance.
 ### The Problems It Solves:
