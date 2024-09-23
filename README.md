@@ -126,7 +126,7 @@ To connect the application to your SQL Server database, you will need to update 
    ![image](https://github.com/user-attachments/assets/20a582f3-c351-47fa-b54d-a75d3c978e2f)
 
 
-## Window Forns Designs
+## Windows Forms Designs
 
 ### Admin's Features 
 
