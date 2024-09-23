@@ -130,7 +130,7 @@ To connect the application to your SQL Server database, you will need to update 
 
 ### Admin's Features 
 
--  **Login Interface**: ### User have to select the role first (Admin or Customer). Then  Fillup the required Boxes and click the Login button to Login to in the application
+-  **Login Interface**:  User have to select the role first (Admin or Customer). Then  Fillup the required Boxes and click the Login button to Login to in the application
 
   ![image](https://github.com/user-attachments/assets/4d5cd211-498a-4faa-9508-aa5d9be685ed)
 
@@ -197,7 +197,7 @@ To connect the application to your SQL Server database, you will need to update 
 
   ![image](https://github.com/user-attachments/assets/12f83b34-c7c1-4910-988b-f5bb6ca9c954)
 
-##Contact
+## Contact
 Provide information on how to reach the author or maintainers of the project:
 
 Name: Zihaul Islam Zihan
