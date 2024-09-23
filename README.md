@@ -18,7 +18,7 @@ A Car Rental Management System that allows users to book cars, manage payments, 
   - [Report Table](#report-table)
 - [Windows Forms Designs](#windows-forms-designs)
   - [Admin's Features](#admins-features)
-  - [Customer's Features](#customers-features)
+- [Customer's Features](#customers-features)
 - [Contact](#contact)
 
 
@@ -162,7 +162,7 @@ To connect the application to your SQL Server database, you will need to update 
 
   ![image](https://github.com/user-attachments/assets/4d984b38-8628-4d2b-a129-dbb52e81dafc)
 
-### Customer's Feature 
+### Customer's Features
 
 - **SignUp Interface**: Only Customer can signup by clicking the SignUp button on the Login page. Then he/she need to fillup the required information and click the signup button of SignUP page
 
