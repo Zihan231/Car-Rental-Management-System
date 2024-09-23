@@ -200,9 +200,9 @@ To connect the application to your SQL Server database, you will need to update 
 ## Contact
 Provide information on how to reach the author or maintainers of the project:
 
-Name: Zihaul Islam Zihan
-Email: Zihanislam231@gmail.com
-GitHub: [Your GitHub Profile](https://github.com/Zihan231)
+- **Name**: Zihaul Islam Zihan
+- **Email**: Zihanislam231@gmail.com
+- **GitHub**: [Your GitHub Profile](https://github.com/Zihan231)
   
 
 
